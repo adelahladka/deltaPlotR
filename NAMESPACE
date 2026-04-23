@@ -1,0 +1,16 @@
+# Default NAMESPACE created by R
+# Remove the previous line if you edit this file
+
+# Export all names
+exportPattern(".")
+
+# Import all packages listed as Imports or Depends
+import(MASS)
+
+
+importFrom("grDevices", "dev.off", "jpeg", "pdf")
+importFrom("graphics", "abline", "legend", "plot", "points")
+importFrom("stats", "cor", "cov", "qnorm", "symnum")
+importFrom("utils", "capture.output")
+
+S3method("print","deltaPlot")
