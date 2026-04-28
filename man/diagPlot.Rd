@@ -79,7 +79,7 @@ Magis, D., and Facon, B. (2012). Angoff's Delta method revisited: improving the 
 
 Magis, D., and Facon, B. (2013). Item purification does not always improve DIF detection: a counter-example with Angoff's Delta plot. \emph{Educational and Psychological Measurement, 73}, 293-311.
 
-Magis, D. and Facon, B. (2014). \emph{deltaPlotR}: An R Package for Differential Item Functioning Analysis with Angoff's Delta Plot. \emph{Journal of Statistical Software, Code Snippets, 59(1)}, 1-19. URL \url{http://www.jstatsoft.org/v59/c01/}
+Magis, D. and Facon, B. (2014). \emph{deltaPlotR}: An R Package for Differential Item Functioning Analysis with Angoff's Delta Plot. \emph{Journal of Statistical Software, Code Snippets, 59(1)}, 1-19. URL \url{https://www.jstatsoft.org/v59/c01/}
 }
 
 
@@ -91,7 +91,7 @@ Magis, D. and Facon, B. (2014). \emph{deltaPlotR}: An R Package for Differential
     David Magis \cr
     Post-doc Fellow of the National Funds for Scientific Research (FNRS, Belgium) \cr
     University of Liege \cr
-    \email{David.Magis@ulg.ac.be}, \url{http://ppw.kuleuven.be/okp/home/} \cr
+    \email{David.Magis@ulg.ac.be}, \url{https://ppw.kuleuven.be/okp/home/} \cr
     Bruno Facon\cr
     Professor, Department of Psychology \cr
     Universite Lille-Nord de France\cr

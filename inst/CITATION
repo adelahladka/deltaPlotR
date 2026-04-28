@@ -11,12 +11,12 @@ bibentry(
   number  = "1",
   pages   = "1--19",
   doi     = "10.18637/jss.v059.c01",
-  url     = "http://www.jstatsoft.org/v59/c01/",
+  url     = "https://www.jstatsoft.org/v59/c01/",
   textVersion = paste(
     "Magis, D., & Facon, B. (2014).",
     "deltaPlotR: An R Package for Differential Item Functioning Analysis with Angoff's Delta Plot.",
     "Journal of Statistical Software, Code Snippets, 59(1), 1-19.",
-    "URL http://www.jstatsoft.org/v59/c01/."
+    "URL https://www.jstatsoft.org/v59/c01/."
   )
 )
 
