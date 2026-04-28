@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # deltaPlotR
 
 Identification of Dichotomous Differential Item Functioning (DIF) using Angoff's 
