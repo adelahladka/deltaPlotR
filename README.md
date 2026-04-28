@@ -46,19 +46,19 @@ To cite the **deltaPlotR** package in publications, please, use:
 <ul>Magis, D. & Facon, B. (2014). deltaPlotR: An R Package for differential item 
 functioning analysis with Angoff's delta plot 
 <i>Journal of Statistical Software, Code Snippets, 59</i>(1), 1--19, 
-<https://doi.org/10.18637/jss.v059.c01></ul>
+https://doi.org/10.18637/jss.v059.c01</ul>
 
 Further related publications on Angoff's delta plot method:
 
 <ul>Angoff, W. H. & Ford, S. F. (1973). Item-race interaction on a test of 
 scholastic aptitude. 
 <i>Journal of Educational Measurement, 10</i>(2), 95--106, 
-<https://doi.org/10.1111/j.1745-3984.1973.tb00787.x></ul>
+https://doi.org/10.1111/j.1745-3984.1973.tb00787.x</ul>
 
 <ul>Magis, D. & Facon, B. (2012). Angoff's Delta method revisited: improving the 
 DIF detection under small samples. 
 <i>British Journal of Mathematical and Statistical Psychology, 65</i>(2), 302--321, 
-<https://doi.org/10.1111/j.2044-8317.2011.02025.x></ul>
+https://doi.org/10.1111/j.2044-8317.2011.02025.x</ul>
 
 
 ## Try online
@@ -71,5 +71,4 @@ application and package and its DIF/Fairness section.
 ## Getting help
 
 In case you find any bug or just need help with the **deltaPlotR** package,
-you can leave your message as an issue here or directly contact us at
-[hladka\@cs.cas.cz](mailto:hladka@cs.cas.cz){.email}
+you can leave your message as an issue here or directly contact us at hladka@cs.cas.cz
